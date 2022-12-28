@@ -1,7 +1,5 @@
 package 코테_연습.카카오.신규아이디추천;
 
-import java.util.ArrayList;
-
 class Solution {
 
     

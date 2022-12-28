@@ -1,6 +1,4 @@
-package test;
-
-import java.util.ArrayList;
+package 코테_연습.다항식_계산;
 
 class Solution {
     public String solution(String polynomial) {
