@@ -1,3 +1,5 @@
+package 코테_연습.lv0_잘라서_배열로_저장하기;
+
 class Solution {
 	public String[] solution(String my_str, int n) {
 		String[] answer = null;

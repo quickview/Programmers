@@ -1,3 +1,5 @@
+package 코테_연습.약수의_개수와_덧셈;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,10 +9,7 @@ class Solution {
         ArrayList<Integer> list = new ArrayList<>();
         //1. 약수를 구한다.
         for (int i = left; i <= right; i++) {
-            int count = 2;
-            for(int j = 2; j < i){
-                
-            }
+           
         }
 
         //2. 조건에 맞는 
