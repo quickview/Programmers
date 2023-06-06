@@ -19,9 +19,7 @@ class Solution {
 			}
 		}
 
-		for (int i = 0; i < resultArr.length; i++) {
-			System.out.println(resultArr[i]);
-		}
+		
 
 		for (String string : resultArr) {
 			answer += string;
